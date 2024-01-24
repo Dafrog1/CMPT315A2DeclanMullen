@@ -1,0 +1,23 @@
+{
+  "name": "@dafrog1/cmpt315a2",
+  "version": "1.0.0",
+  "description": "For Learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dafrog1/CMPT315A2DeclanMullen.git"
+  },
+  "keywords": [
+    "MacEwan",
+    "Learning"
+  ],
+  "author": "Declan Mullen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dafrog1/CMPT315A2DeclanMullen/issues"
+  },
+  "homepage": "https://github.com/Dafrog1/CMPT315A2DeclanMullen#readme"
+}
